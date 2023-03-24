@@ -9,7 +9,17 @@ h1, h2, p {
 h1, h2 {
     font-family: Impact;
 }
-
+h1 {
+    font-size: 40px;
+}
+h2{
+    font-size: 30px;
+}
+hr{
+    background-color: brown;
+    border-color: brown;
+    height: 2px;
+}
 .menu {
     margin-right: auto;
     margin-left: auto;
