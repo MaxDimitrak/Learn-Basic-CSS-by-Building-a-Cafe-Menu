@@ -13,12 +13,12 @@ body {
     background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg)
 }
 
-.flavor{
-    width: 49%;
+.flavor, .dessert{
+    width: 75%;
     text-align: left;
 }
 .price{
-    width: 49%;
+    width: 25%;
     text-align: right;
 }
 .item p{
