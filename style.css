@@ -1,6 +1,14 @@
 h1, h2, p {
     text-align: center;
 }
-body{
+
+.menu {
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%;
     background-color: burlywood;
+}
+
+body {
+    background-image: url(https://cdn.freecodecamp.org/curriculum/css-cafe/beans.jpg)
 }
